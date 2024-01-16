@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<Fleet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>PD</Name>
+  <Version>3</Version>
+  <TotalPoints>2236</TotalPoints>
+  <FactionKey>Stock/Protectorate</FactionKey>
+  <SortOverrideOrder xsi:nil="true" />
+  <Ships>
+    <Ship>
+      <SaveID xsi:nil="true" />
+      <Key>004b19ce-23b9-42c5-b6f0-58ffb65e486a</Key>
+      <Name>Cadet</Name>
+      <Cost>345</Cost>
+      <Number>1304</Number>
+      <SymbolOption>0</SymbolOption>
+      <HullType>Stock/Bulk Feeder</HullType>
+      <SocketMap>
+        <HullSocket>
+          <Key>yN7f-9tEXEKlBNskqP6EbA</Key>
+          <ComponentName>Stock/P11 PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>Z2uDs34J-ESu64-i9YGnxQ</Key>
+          <ComponentName>Stock/P11 PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>gb6_3kWBY0KlEWeex3ruDg</Key>
+          <ComponentName>Stock/P20 Flak PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>_y-Bd-EWjUeMIrmzG3UxvQ</Key>
+          <ComponentName>Stock/P20 Flak PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>gDQghm5iik2syYcoJqUPFg</Key>
+          <ComponentName>Stock/Basic CIC</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>vtme83CXg0qDA4_YK6NqwA</Key>
+          <ComponentName>Stock/Reinforced Magazine</ComponentName>
+          <ComponentData xsi:type="BulkMagazineData">
+            <Load>
+              <MagSaveData>
+                <MagazineKey>YS-j2Gq19kugNxZy3fcdpg</MagazineKey>
+                <MunitionKey>Stock/20mm Slug</MunitionKey>
+                <Quantity>5000</Quantity>
+              </MagSaveData>
+              <MagSaveData>
+                <MagazineKey>Yx5bwjuULEObIT6tK27Ocw</MagazineKey>
+                <MunitionKey>Stock/Flak Round</MunitionKey>
+                <Quantity>5000</Quantity>
+              </MagSaveData>
+            </Load>
+          </ComponentData>
+        </HullSocket>
+        <HullSocket>
+          <Key>TTM8O-MUDky06__LwvSo8w</Key>
+          <ComponentName>Stock/Berthing</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>9K_1ZNCgFESrvaoQMOH3yw</Key>
+          <ComponentName>Stock/Civilian Reactor</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>HNv6B-78FEuhV8YT9A6uZw</Key>
+          <ComponentName>Stock/BW800 Drive</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>EvZ6JN5xV0aUlKEeeKxFTQ</Key>
+          <ComponentName>Stock/Ithaca Bridgemaster</ComponentName>
+        </HullSocket>
+      </SocketMap>
+      <WeaponGroups />
+      <TemplateMissileTypes />
+    </Ship>
+    <Ship>
+      <SaveID xsi:nil="true" />
+      <Key>8ded0d1e-d8ba-465c-94fb-300ea4d26967</Key>
+      <Name>Shrub Gory</Name>
+      <Cost>1546</Cost>
+      <Number>482</Number>
+      <SymbolOption>0</SymbolOption>
+      <HullType>Stock/Ocello Cruiser</HullType>
+      <SocketMap>
+        <HullSocket>
+          <Key>iJzzxinSN0uJIjrt9M3aGA</Key>
+          <ComponentName>Stock/P60 Laser PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>lQ7GplJ1ikW0K_QhXK7GvA</Key>
+          <ComponentName>Stock/P60 Laser PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>60X-7VSlxUq6Qas-KwszMA</Key>
+          <ComponentName>Stock/P60 Laser PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>4v5e01-gEUiTNnQJevNpGg</Key>
+          <ComponentName>Stock/Mk95 'Sarissa' PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>o78jebL2nkezXdHJ6xA3WA</Key>
+          <ComponentName>Stock/Mk95 'Sarissa' PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>Gpm2KFKPCU-0ECKr0YsJAw</Key>
+          <ComponentName>Stock/C53 Cannon</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>-lwFeyvDUECyC-AuVfATog</Key>
+          <ComponentName>Stock/P20 Flak PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>rI5k7ytZH0S7yQLZnFB_nQ</Key>
+          <ComponentName>Stock/P11 PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>0J9pyeFp6U6KMEAXiuNHHw</Key>
+          <ComponentName>Stock/P11 PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>mP5XoHZ3Wk-DsFk3YLAxzg</Key>
+          <ComponentName>Stock/Mk90 'Aurora' PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>xe7LNTrStUuS8PMCn6KYsQ</Key>
+          <ComponentName>Stock/Mk90 'Aurora' PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>4NKBOsswyUGpVA-YP-T5ng</Key>
+          <ComponentName>Stock/Basic CIC</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>bzRgWNrBdE6BjUaGy8G1tg</Key>
+          <ComponentName>Stock/Reinforced Magazine</ComponentName>
+          <ComponentData xsi:type="BulkMagazineData">
+            <Load>
+              <MagSaveData>
+                <MagazineKey>i5Eg651RVEioviXyq27yhg</MagazineKey>
+                <MunitionKey>Stock/15mm Sandshot</MunitionKey>
+                <Quantity>5000</Quantity>
+              </MagSaveData>
+              <MagSaveData>
+                <MagazineKey>qLFDl6zH0kG1HTR7lCTqyw</MagazineKey>
+                <MunitionKey>Stock/20mm Slug</MunitionKey>
+                <Quantity>5000</Quantity>
+              </MagSaveData>
+              <MagSaveData>
+                <MagazineKey>O7XwbGqq-UG2p2b3I_H7jw</MagazineKey>
+                <MunitionKey>Stock/Flak Round</MunitionKey>
+                <Quantity>5000</Quantity>
+              </MagSaveData>
+              <MagSaveData>
+                <MagazineKey>Cr13_yceRUyuSfxjYf-w6A</MagazineKey>
+                <MunitionKey>Stock/250mm HE Shell</MunitionKey>
+                <Quantity>5</Quantity>
+              </MagSaveData>
+            </Load>
+          </ComponentData>
+        </HullSocket>
+        <HullSocket>
+          <Key>foWiXJZCEEKQx0LmO1IMnw</Key>
+          <ComponentName>Stock/Plant Control Center</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>viC38BuOaEuyTlVDRdF0gg</Key>
+          <ComponentName>Stock/Berthing</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>GXIxYPfk8E2cbQnK0U1QNw</Key>
+          <ComponentName>Stock/Reinforced CIC</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>q5iHLt9VEU-166x4NJmr4Q</Key>
+          <ComponentName>Stock/Reinforced CIC</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>vXXZA02qQEyreCSFbtLJOA</Key>
+          <ComponentName>Stock/Reinforced CIC</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>S03aWjfX90epbCcytu9_xw</Key>
+          <ComponentName>Stock/Reinforced CIC</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>aImgD6jcq0GZXRi5MmyeWw</Key>
+          <ComponentName>Stock/Reinforced CIC</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>hjHxzsG5iUCkaG0eGd52bA</Key>
+          <ComponentName>Stock/FR4800 Reactor</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>Fp6_NyEq1E-ZGeZxM9kjUg</Key>
+          <ComponentName>Stock/BW800 Drive</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>-XwaOMN6eUSsztvywrmXVQ</Key>
+          <ComponentName>Stock/Boosted Reactor</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>26mxVeOdd0SB5ZSaG_hJ0w</Key>
+          <ComponentName>Stock/FR3300 Micro Reactor</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>73x1IW-ccUSI_0bIcWMFPw</Key>
+          <ComponentName>Stock/RS35 'Frontline' Radar</ComponentName>
+        </HullSocket>
+      </SocketMap>
+      <WeaponGroups />
+      <TemplateMissileTypes />
+    </Ship>
+    <Ship>
+      <SaveID xsi:nil="true" />
+      <Key>c63f7873-b26e-45bc-b786-eaac91597957</Key>
+      <Name>Glue and Genre</Name>
+      <Cost>345</Cost>
+      <Number>870</Number>
+      <SymbolOption>0</SymbolOption>
+      <HullType>Stock/Bulk Feeder</HullType>
+      <SocketMap>
+        <HullSocket>
+          <Key>yN7f-9tEXEKlBNskqP6EbA</Key>
+          <ComponentName>Stock/P11 PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>Z2uDs34J-ESu64-i9YGnxQ</Key>
+          <ComponentName>Stock/P11 PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>gb6_3kWBY0KlEWeex3ruDg</Key>
+          <ComponentName>Stock/P20 Flak PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>_y-Bd-EWjUeMIrmzG3UxvQ</Key>
+          <ComponentName>Stock/P20 Flak PDT</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>gDQghm5iik2syYcoJqUPFg</Key>
+          <ComponentName>Stock/Basic CIC</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>vtme83CXg0qDA4_YK6NqwA</Key>
+          <ComponentName>Stock/Reinforced Magazine</ComponentName>
+          <ComponentData xsi:type="BulkMagazineData">
+            <Load>
+              <MagSaveData>
+                <MagazineKey>YS-j2Gq19kugNxZy3fcdpg</MagazineKey>
+                <MunitionKey>Stock/20mm Slug</MunitionKey>
+                <Quantity>5000</Quantity>
+              </MagSaveData>
+              <MagSaveData>
+                <MagazineKey>Yx5bwjuULEObIT6tK27Ocw</MagazineKey>
+                <MunitionKey>Stock/Flak Round</MunitionKey>
+                <Quantity>5000</Quantity>
+              </MagSaveData>
+            </Load>
+          </ComponentData>
+        </HullSocket>
+        <HullSocket>
+          <Key>TTM8O-MUDky06__LwvSo8w</Key>
+          <ComponentName>Stock/Berthing</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>9K_1ZNCgFESrvaoQMOH3yw</Key>
+          <ComponentName>Stock/Civilian Reactor</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>HNv6B-78FEuhV8YT9A6uZw</Key>
+          <ComponentName>Stock/BW800 Drive</ComponentName>
+        </HullSocket>
+        <HullSocket>
+          <Key>EvZ6JN5xV0aUlKEeeKxFTQ</Key>
+          <ComponentName>Stock/Ithaca Bridgemaster</ComponentName>
+        </HullSocket>
+      </SocketMap>
+      <WeaponGroups />
+      <TemplateMissileTypes />
+    </Ship>
+  </Ships>
+</Fleet>
